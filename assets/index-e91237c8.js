@@ -1,1 +1,0 @@
-import{c as e,j as t,R as o,N as i}from"./all.min-fbdb6be2.js";console.log("/admin/index.tsx");document.title="Painel Administrativo: Faz Site";e.createRoot(document.getElementById("root")).render(t(o.StrictMode,{children:t(i,{})}));
